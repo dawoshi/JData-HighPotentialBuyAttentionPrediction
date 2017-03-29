@@ -87,3 +87,16 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+data/*
+
+.idea
+.idea/JData-HighPotentialBuyAttentionPrediction.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+
+data/
+
+.idea/vcs.xml
